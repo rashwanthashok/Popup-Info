@@ -50,6 +50,10 @@ Enhance user experience by providing informative messages in an eye-catching pop
 6. Simple integration into existing web applications or projects.
 
 7. Straightforward code structure for easy modification and extension.
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a1124c1-3ada-486c-b312-e52d79d78bca/deploy-status)](https://app.netlify.com/sites/jsprojects13-popup-info/deploys)
 ## Contributing
 
 Contributions are always welcome!
