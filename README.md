@@ -16,8 +16,8 @@ GitHub Pop Up Info: Customize this web app with ease. Display informative pop-up
 
 Live Demo:
 
+ https://rashwanthashok.github.io/Popup-Info/
     
-    https://codesoftg.github.io/TGCodes-Popup-info/
 ## Getting Started
 
 A customizable web application for displaying informative pop-up notifications. Easily modify the background image, font color, and icons to match your preferences. Follow these steps to utilize the code:
